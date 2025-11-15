@@ -1,5 +1,3 @@
-write me generic python script to parse below kind of json response in to dataframe,
-
 {
     "meta": {},
     "data": {
